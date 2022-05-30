@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionBody": "1. Which country has the longest coastline in the world?",
+      "answerA": "Canada",
+      "answerB": "Russia",
+      "answerC": "Turkey",
+      "answerD": "New Zealand",
+      "correctAnswer": "answerA"
+    },
+    {
+      "id": 2,
+      "questionBody": "2. What is the world's most populated country?",
+      "answerA": "USA",
+      "answerB": "Russia",
+      "answerC": "China",
+      "answerD": "India",
+      "correctAnswer": "answerC"
+    },
+    {
+      "id": 3,
+      "questionBody": "3. What is the capital of the Philippines?",
+      "answerA": "Dili",
+      "answerB": "Jakarta",
+      "answerC": "Marawi",
+      "answerD": "Manilla",
+      "correctAnswer": "answerD"
+    }, 
+    {
+      "id": 4,
+      "questionBody": "4. The Great Barrier Reef is off the coast of which country?",
+      "answerA": "Australia",
+      "answerB": "New Zealand",
+      "answerC": "Fiji",
+      "answerD": "South Africa",
+      "correctAnswer": "answerA"
+    },
+    {
+      "id": 5,
+      "questionBody": "5. What is the World's Smallest Country?",
+      "answerA": "Vatican City",
+      "answerB": "Monaco",
+      "answerC": "Lichtenstein",
+      "answerD": "Luxembourg",
+      "correctAnswer": "answerA"
+    },
+    {
+      "id":6,
+      "questionBody": "6. What is the capital of Australia?",
+      "answerA": "Melbourne",
+      "answerB": "Sydney",
+      "answerC": "Canberra",
+      "answerD": "Adelaide",
+      "correctAnswer": "answerC"
+    }
+  ]
+}
