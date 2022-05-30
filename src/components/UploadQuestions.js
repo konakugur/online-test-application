@@ -67,13 +67,8 @@ function UploadQuestions() {
               </div>
 
               <div className="form-group">
-                After clicking submit you will see the page to show questions.
+                After clicking upload you will see the page to show questions.
               </div>
-              
-            
-              <button type="submit" className="btn btn-primary">
-                Submit
-              </button>
 
             </form>
           </div>
